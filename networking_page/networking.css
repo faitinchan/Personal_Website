@@ -149,14 +149,20 @@ nav ul li:hover ul.dropdown {
 	top: 50vh;
 	min-height: 50vh;
 	background: #3B3B3B;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
+	padding: 5%;
+}
+
+.content img {
+	width: 100%;
 }
 
 .content h2 {
-	text-align: center;
-	align-items: center;
+	padding-bottom: 1%;
+}
+
+.content p {
+	padding-top: 1%;
+	text-align: justify;
 }
 
 .footer {
