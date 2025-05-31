@@ -128,6 +128,20 @@ nav ul li:hover ul.dropdown {
 	padding-left: 10%;
 	padding-right: 10%;
 	line-height: 150%;
+	padding-bottom: 2%;
+}
+
+.visit {
+	display: inline-block;
+	padding: 1%;
+	background-color: #222222;
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.visit:hover {
+	background-color: #636363;
 }
 
 .content {
